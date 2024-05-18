@@ -52,3 +52,19 @@ To get a local copy up and running, follow these steps:
 
 Here is a brief overview of the project's folder structure:
 
+react-task-manager/
+│
+├── public/ # Public assets
+│
+├── src/ # Source files
+│ ├── components/ # React components
+│ ├── App.jsx # Main App component
+│ ├── index.jsx # Entry point
+│ └── ... # Other files
+│
+├── db.json # JSON Server database
+├── .gitignore # Git ignore file
+├── package.json # NPM dependencies and scripts
+├── vite.config.js # Vite configuration
+└── README.md # Project README file
+
