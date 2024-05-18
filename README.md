@@ -4,7 +4,7 @@ A simple task manager application built with React and using JSON Server as a mo
 
 ## Demo
 
-//
+![](https://github.com/ap0calypse8/react-task-manager/blob/main/Screenshot%202024-05-19%20005223.png)
 
 ## Features
 
