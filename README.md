@@ -52,7 +52,7 @@ To get a local copy up and running, follow these steps:
 
 Here is a brief overview of the project's folder structure:
 
-react-task-manager/
+```react-task-manager/
 │
 ├── public/ # Public assets
 │
@@ -66,5 +66,5 @@ react-task-manager/
 ├── .gitignore # Git ignore file
 ├── package.json # NPM dependencies and scripts
 ├── vite.config.js # Vite configuration
-└── README.md # Project README file
+└── README.md # Project README file```
 
